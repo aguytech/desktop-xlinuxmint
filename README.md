@@ -1,2 +1,2 @@
-# desktop-xubuntu
-A script to install and cutomize xubuntu for a desktop usage
+# desktop-xlinuxmint
+A script to install and cutomize xfcs linuxmint for a desktop usage
